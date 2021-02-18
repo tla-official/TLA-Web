@@ -1,20 +1,35 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Welcome to The Learning Arcade
+subtitle: A place where you can learn various things
+image: img/channel-banner.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Why us?
+  text: The Learning Arcade is a platform offering content for free on educational
+    topics and even coding. If you go and see other places, you will need to pay
+    for courses but here we offer each and everything for free. We just like
+    doing this. If you are interested, Welcome!
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: "We do educational things and some other interesting topics. Subjects we
+    currently have made content on are the follows :"
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  - image: img/5.jpg
+    text: >-
+      Coding is the first topic to appear on our channel. It is the most
+      interesting field which is very useful because coding is everywhere for
+      example - for the robots to function we need coding.
 
+      The topics we started under coding is p5*JS and Python.
+  - image: img/4.jpg
+    text: >-
+      The second topic to arrive at is Maths or Mathematics. This is very
+      interesting for some students and it is very problematic for some. 
+
+      So, to fix this issue we are here. We might not be able to answer some higher topics in this subject because we are kids who are running this ( Kids means not like 2 or 3 year old, We are between kids and teens ).
+values:
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
+---
