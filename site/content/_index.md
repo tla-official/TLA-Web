@@ -1,5 +1,5 @@
 ---
-title: Welcome to........... The Learning Arcade
+title: Welcome to The Learning Arcade
 subtitle: A place where you can learn various things
 image: img/channel-banner.png
 blurb:
@@ -26,6 +26,10 @@ products:
       interesting for some students and it is very problematic for some. 
 
       So, to fix this issue we are here. We might not be able to answer some higher topics in this subject because we are kids who are running this ( Kids means not like 2 or 3 year old, We are between kids and teens ).
+  - image: img/2.jpg
+    text: Then Science is the next subject which in hopped into our family, a friend
+      of ours was very interested in science and wanted to spread what he knew.
+      Like this came our 3rd subject.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
