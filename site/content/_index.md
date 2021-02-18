@@ -1,5 +1,5 @@
 ---
-title: Welcome to The Learning Arcade
+title: Welcome to........... The Learning Arcade
 subtitle: A place where you can learn various things
 image: img/channel-banner.png
 blurb:
