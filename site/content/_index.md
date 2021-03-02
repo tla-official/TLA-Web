@@ -31,9 +31,7 @@ products:
       of ours was very interested in science and wanted to spread what he knew.
       Like this came our 3rd subject.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Help
+  text: We are always ready to help! Email us at
+    TheLearningArcade.Official@Gmail.com, and we will get back to you ASAP!
 ---
